@@ -1,0 +1,2084 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Anteino</Author>
+  <LastAuthor>Anteino</LastAuthor>
+  <Created>2018-06-05T13:17:06Z</Created>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10050</WindowHeight>
+  <WindowWidth>11475</WindowWidth>
+  <WindowTopX>240</WindowTopX>
+  <WindowTopY>60</WindowTopY>
+  <ActiveSheet>1</ActiveSheet>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+ </Styles>
+	<!-- Insert data here -->
+ <Worksheet ss:Name="Material">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="20" x:FullColumns="1" x:FullRows="1" ss:DefaultRowHeight="15">
+  <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:AutoFitWidth="0" ss:Width="150"/>
+   <Row>
+    <Cell><Data ss:Type="String">brand</Data></Cell>
+    <Cell><Data ss:Type="String">MakerPoint</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">material</Data></Cell>
+    <Cell><Data ss:Type="String">PET-G</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">color</Data></Cell>
+    <Cell><Data ss:Type="String">Generic</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">GUID</Data></Cell>
+    <Cell><Data ss:Type="String">01dbf13d-090b-4842-ac37-5eca677daf6d</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">version</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">color_code</Data></Cell>
+    <Cell><Data ss:Type="String">#159499</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">description</Data></Cell>
+    <Cell><Data ss:Type="String">MakerPoint PET-G is a strong, high clarity, odor neutral and easy to print filament. It's high impact strength, excellent flexibility and no shrinkage make PET-G an excellent material combining the advantages of PLA and ABS.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">adhesion_info</Data></Cell>
+    <Cell><Data ss:Type="String">Use BuildTak.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">density</Data></Cell>
+    <Cell><Data ss:Type="Number">1.27</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">diameter</Data></Cell>
+    <Cell><Data ss:Type="Number">2.85</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">print temperature</Data></Cell>
+    <Cell><Data ss:Type="Number">245.0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">heated bed temperature</Data></Cell>
+    <Cell><Data ss:Type="Number">70</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">standby temperature</Data></Cell>
+    <Cell><Data ss:Type="Number">195.0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">adhesion tendency</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">surface energy</Data></Cell>
+    <Cell><Data ss:Type="Number">70</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">heated bed temperature</Data></Cell>
+    <Cell><Data ss:Type="Number">70</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">shrinkage percentage</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">retraction amount</Data></Cell>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">retraction speed</Data></Cell>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">print cooling</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>23</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+   <Worksheet ss:Name="ultimaker2_plus">
+  <Table ss:ExpandedColumnCount="16" ss:ExpandedRowCount="40" x:FullColumns="1" x:FullRows="1" ss:DefaultRowHeight="15">
+  <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:AutoFitWidth="0" ss:Width="150"/>
+   <Row>
+    <Cell><Data ss:Type="String">[general]</Data></Cell>
+    <Cell><Data ss:Type="String">version</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[general]</Data></Cell>
+    <Cell><Data ss:Type="String">name</Data></Cell>
+    <Cell><Data ss:Type="String">Normal</Data></Cell>
+    <Cell><Data ss:Type="String">Extra Fine</Data></Cell>
+    <Cell><Data ss:Type="String">Fine</Data></Cell>
+    <Cell><Data ss:Type="String">Fast</Data></Cell>
+    <Cell><Data ss:Type="String">Normal</Data></Cell>
+    <Cell><Data ss:Type="String">Extra Fine</Data></Cell>
+    <Cell><Data ss:Type="String">Fine</Data></Cell>
+    <Cell><Data ss:Type="String">Fast</Data></Cell>
+    <Cell><Data ss:Type="String">Normal</Data></Cell>
+    <Cell><Data ss:Type="String">Sprint</Data></Cell>
+    <Cell><Data ss:Type="String">Extra Fast</Data></Cell>
+    <Cell><Data ss:Type="String">Fast</Data></Cell>
+    <Cell><Data ss:Type="String">Sprint</Data></Cell>
+    <Cell><Data ss:Type="String">Extra Fast</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[general]</Data></Cell>
+    <Cell><Data ss:Type="String">definition</Data></Cell>
+    <Cell><Data ss:Type="String">ultimaker2_plus</Data></Cell>
+    <Cell><Data ss:Type="String">ultimaker2_plus</Data></Cell>
+    <Cell><Data ss:Type="String">ultimaker2_plus</Data></Cell>
+    <Cell><Data ss:Type="String">ultimaker2_plus</Data></Cell>
+    <Cell><Data ss:Type="String">ultimaker2_plus</Data></Cell>
+    <Cell><Data ss:Type="String">ultimaker2_plus</Data></Cell>
+    <Cell><Data ss:Type="String">ultimaker2_plus</Data></Cell>
+    <Cell><Data ss:Type="String">ultimaker2_plus</Data></Cell>
+    <Cell><Data ss:Type="String">ultimaker2_plus</Data></Cell>
+    <Cell><Data ss:Type="String">ultimaker2_plus</Data></Cell>
+    <Cell><Data ss:Type="String">ultimaker2_plus</Data></Cell>
+    <Cell><Data ss:Type="String">ultimaker2_plus</Data></Cell>
+    <Cell><Data ss:Type="String">ultimaker2_plus</Data></Cell>
+    <Cell><Data ss:Type="String">ultimaker2_plus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[metadata]</Data></Cell>
+    <Cell><Data ss:Type="String">setting_version</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[metadata]</Data></Cell>
+    <Cell><Data ss:Type="String">type</Data></Cell>
+    <Cell><Data ss:Type="String">quality</Data></Cell>
+    <Cell><Data ss:Type="String">quality</Data></Cell>
+    <Cell><Data ss:Type="String">quality</Data></Cell>
+    <Cell><Data ss:Type="String">quality</Data></Cell>
+    <Cell><Data ss:Type="String">quality</Data></Cell>
+    <Cell><Data ss:Type="String">quality</Data></Cell>
+    <Cell><Data ss:Type="String">quality</Data></Cell>
+    <Cell><Data ss:Type="String">quality</Data></Cell>
+    <Cell><Data ss:Type="String">quality</Data></Cell>
+    <Cell><Data ss:Type="String">quality</Data></Cell>
+    <Cell><Data ss:Type="String">quality</Data></Cell>
+    <Cell><Data ss:Type="String">quality</Data></Cell>
+    <Cell><Data ss:Type="String">quality</Data></Cell>
+    <Cell><Data ss:Type="String">quality</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[metadata]</Data></Cell>
+    <Cell><Data ss:Type="String">quality_type</Data></Cell>
+    <Cell><Data ss:Type="String">fast</Data></Cell>
+    <Cell><Data ss:Type="String">high</Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell><Data ss:Type="String">draft</Data></Cell>
+    <Cell><Data ss:Type="String">fast</Data></Cell>
+    <Cell><Data ss:Type="String">high</Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell><Data ss:Type="String">draft</Data></Cell>
+    <Cell><Data ss:Type="String">fast</Data></Cell>
+    <Cell><Data ss:Type="String">superdraft</Data></Cell>
+    <Cell><Data ss:Type="String">verydraft</Data></Cell>
+    <Cell><Data ss:Type="String">draft</Data></Cell>
+    <Cell><Data ss:Type="String">superdraft</Data></Cell>
+    <Cell><Data ss:Type="String">verydraft</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[metadata]</Data></Cell>
+    <Cell><Data ss:Type="String">weight</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">-1</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">-1</Data></Cell>
+    <Cell><Data ss:Type="Number">-1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">-1</Data></Cell>
+    <Cell><Data ss:Type="Number">-1</Data></Cell>
+    <Cell><Data ss:Type="Number">-1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[metadata]</Data></Cell>
+    <Cell><Data ss:Type="String">material</Data></Cell>
+    <Cell><Data ss:Type="String">makerpoint_petg</Data></Cell>
+    <Cell><Data ss:Type="String">makerpoint_petg</Data></Cell>
+    <Cell><Data ss:Type="String">makerpoint_petg</Data></Cell>
+    <Cell><Data ss:Type="String">makerpoint_petg</Data></Cell>
+    <Cell><Data ss:Type="String">makerpoint_petg</Data></Cell>
+    <Cell><Data ss:Type="String">makerpoint_petg</Data></Cell>
+    <Cell><Data ss:Type="String">makerpoint_petg</Data></Cell>
+    <Cell><Data ss:Type="String">makerpoint_petg</Data></Cell>
+    <Cell><Data ss:Type="String">makerpoint_petg</Data></Cell>
+    <Cell><Data ss:Type="String">makerpoint_petg</Data></Cell>
+    <Cell><Data ss:Type="String">makerpoint_petg</Data></Cell>
+    <Cell><Data ss:Type="String">makerpoint_petg</Data></Cell>
+    <Cell><Data ss:Type="String">makerpoint_petg</Data></Cell>
+    <Cell><Data ss:Type="String">makerpoint_petg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[metadata]</Data></Cell>
+    <Cell><Data ss:Type="String">variant</Data></Cell>
+    <Cell><Data ss:Type="String">0.25 mm</Data></Cell>
+    <Cell><Data ss:Type="String">0.25 mm</Data></Cell>
+    <Cell><Data ss:Type="String">0.25 mm</Data></Cell>
+    <Cell><Data ss:Type="String">0.4 mm</Data></Cell>
+    <Cell><Data ss:Type="String">0.4 mm</Data></Cell>
+    <Cell><Data ss:Type="String">0.4 mm</Data></Cell>
+    <Cell><Data ss:Type="String">0.4 mm</Data></Cell>
+    <Cell><Data ss:Type="String">0.6 mm</Data></Cell>
+    <Cell><Data ss:Type="String">0.6 mm</Data></Cell>
+    <Cell><Data ss:Type="String">0.6 mm</Data></Cell>
+    <Cell><Data ss:Type="String">0.6 mm</Data></Cell>
+    <Cell><Data ss:Type="String">0.8 mm</Data></Cell>
+    <Cell><Data ss:Type="String">0.8 mm</Data></Cell>
+    <Cell><Data ss:Type="String">0.8 mm</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">cool_fan_speed_min</Data></Cell>
+    <Cell><Data ss:Type="String">=cool_fan_speed * 0.2</Data></Cell>
+    <Cell><Data ss:Type="String">=cool_fan_speed * 0.2</Data></Cell>
+    <Cell><Data ss:Type="String">=cool_fan_speed * 0.2</Data></Cell>
+    <Cell><Data ss:Type="String">=cool_fan_speed * 0.8</Data></Cell>
+    <Cell><Data ss:Type="String">=cool_fan_speed * 0.8</Data></Cell>
+    <Cell><Data ss:Type="String">=cool_fan_speed * 0.8</Data></Cell>
+    <Cell><Data ss:Type="String">=cool_fan_speed * 0.8</Data></Cell>
+    <Cell><Data ss:Type="String">=cool_fan_speed * 0.8</Data></Cell>
+    <Cell><Data ss:Type="String">=cool_fan_speed * 0.8</Data></Cell>
+    <Cell><Data ss:Type="String">=cool_fan_speed * 0.8</Data></Cell>
+    <Cell><Data ss:Type="String">=cool_fan_speed * 0.8</Data></Cell>
+    <Cell><Data ss:Type="String">=cool_fan_speed * 0.8</Data></Cell>
+    <Cell><Data ss:Type="String">=cool_fan_speed * 0.8</Data></Cell>
+    <Cell><Data ss:Type="String">=cool_fan_speed * 0.8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">cool_min_layer_time</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">cool_min_layer_time_fan_speed_max</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="Number">25</Data></Cell>
+    <Cell><Data ss:Type="Number">25</Data></Cell>
+    <Cell><Data ss:Type="Number">25</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">cool_min_speed</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">infill_sparse_density</Data></Cell>
+    <Cell><Data ss:Type="Number">18</Data></Cell>
+    <Cell><Data ss:Type="Number">22</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="Number">16</Data></Cell>
+    <Cell><Data ss:Type="Number">18</Data></Cell>
+    <Cell><Data ss:Type="Number">22</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="Number">18</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+    <Cell><Data ss:Type="Number">16</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="Number">16</Data></Cell>
+    <Cell><Data ss:Type="Number">18</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">layer_height</Data></Cell>
+    <Cell><Data ss:Type="Number">0.15</Data></Cell>
+    <Cell><Data ss:Type="Number">0.06</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2</Data></Cell>
+    <Cell><Data ss:Type="Number">0.15</Data></Cell>
+    <Cell><Data ss:Type="Number">0.06</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2</Data></Cell>
+    <Cell><Data ss:Type="Number">0.15</Data></Cell>
+    <Cell><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2</Data></Cell>
+    <Cell><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">speed_layer_0</Data></Cell>
+    <Cell><Data ss:Type="String">=round(speed_print * 30 / 30)</Data></Cell>
+    <Cell><Data ss:Type="String">=round(speed_print * 30 / 30)</Data></Cell>
+    <Cell><Data ss:Type="String">=round(speed_print * 30 / 30)</Data></Cell>
+    <Cell><Data ss:Type="String">=round(speed_print * 30 / 45)</Data></Cell>
+    <Cell><Data ss:Type="String">=round(speed_print * 30 / 45)</Data></Cell>
+    <Cell><Data ss:Type="String">=round(speed_print * 30 / 45)</Data></Cell>
+    <Cell><Data ss:Type="String">=round(speed_print * 30 / 45)</Data></Cell>
+    <Cell><Data ss:Type="String">=round(speed_print * 30 / 40)</Data></Cell>
+    <Cell><Data ss:Type="String">=round(speed_print * 30 / 40)</Data></Cell>
+    <Cell><Data ss:Type="String">=round(speed_print * 30 / 40)</Data></Cell>
+    <Cell><Data ss:Type="String">=round(speed_print * 30 / 40)</Data></Cell>
+    <Cell><Data ss:Type="String">=round(speed_print * 30 / 40)</Data></Cell>
+    <Cell><Data ss:Type="String">=round(speed_print * 30 / 40)</Data></Cell>
+    <Cell><Data ss:Type="String">=round(speed_print * 30 / 40)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">speed_print</Data></Cell>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="Number">45</Data></Cell>
+    <Cell><Data ss:Type="Number">45</Data></Cell>
+    <Cell><Data ss:Type="Number">45</Data></Cell>
+    <Cell><Data ss:Type="Number">45</Data></Cell>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">top_bottom_thickness</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell><Data ss:Type="Number">0.72</Data></Cell>
+    <Cell><Data ss:Type="Number">0.8</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell><Data ss:Type="Number">0.72</Data></Cell>
+    <Cell><Data ss:Type="Number">0.8</Data></Cell>
+    <Cell><Data ss:Type="Number">1.2</Data></Cell>
+    <Cell><Data ss:Type="Number">1.2</Data></Cell>
+    <Cell><Data ss:Type="Number">1.2</Data></Cell>
+    <Cell><Data ss:Type="Number">1.2</Data></Cell>
+    <Cell><Data ss:Type="Number">1.2</Data></Cell>
+    <Cell><Data ss:Type="Number">1.2</Data></Cell>
+    <Cell><Data ss:Type="Number">1.2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">wall_thickness</Data></Cell>
+    <Cell><Data ss:Type="Number">0.88</Data></Cell>
+    <Cell><Data ss:Type="Number">0.88</Data></Cell>
+    <Cell><Data ss:Type="Number">0.88</Data></Cell>
+    <Cell><Data ss:Type="Number">0.7</Data></Cell>
+    <Cell><Data ss:Type="Number">0.7</Data></Cell>
+    <Cell><Data ss:Type="Number">1.05</Data></Cell>
+    <Cell><Data ss:Type="Number">1.05</Data></Cell>
+    <Cell><Data ss:Type="Number">1.59</Data></Cell>
+    <Cell><Data ss:Type="Number">1.59</Data></Cell>
+    <Cell><Data ss:Type="Number">1.59</Data></Cell>
+    <Cell><Data ss:Type="Number">1.59</Data></Cell>
+    <Cell><Data ss:Type="Number">2.1</Data></Cell>
+    <Cell><Data ss:Type="Number">2.1</Data></Cell>
+    <Cell><Data ss:Type="Number">2.1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">speed_wall</Data></Cell>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">speed_travel</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">150</Data></Cell>
+    <Cell><Data ss:Type="Number">150</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">material_print_temperature</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">material_initial_print_temperature</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">material_final_print_temperature</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">prime_tower_purge_volume</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">prime_tower_size</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">prime_tower_wall_thickness</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">retraction_extrusion_window</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">speed_infill</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">speed_topbottom</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">material_standby_temperature</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">skin_overlap</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">speed_wall_0</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">machine_nozzle_cool_down_speed</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">machine_nozzle_heat_up_speed</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">brim_width</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">line_width</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">prime_tower_enable</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">jerk_travel</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">infill_pattern</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>23</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+   <Worksheet ss:Name="ultimaker3">
+  <Table ss:ExpandedColumnCount="12" ss:ExpandedRowCount="40" x:FullColumns="1" x:FullRows="1" ss:DefaultRowHeight="15">
+  <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:AutoFitWidth="0" ss:Width="150"/>
+   <Row>
+    <Cell><Data ss:Type="String">[general]</Data></Cell>
+    <Cell><Data ss:Type="String">version</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[general]</Data></Cell>
+    <Cell><Data ss:Type="String">name</Data></Cell>
+    <Cell><Data ss:Type="String">Normal</Data></Cell>
+    <Cell><Data ss:Type="String">Extra Fine</Data></Cell>
+    <Cell><Data ss:Type="String">Fine</Data></Cell>
+    <Cell><Data ss:Type="String">Fast</Data></Cell>
+    <Cell><Data ss:Type="String">Normal</Data></Cell>
+    <Cell><Data ss:Type="String">Extra Fine</Data></Cell>
+    <Cell><Data ss:Type="String">Fine</Data></Cell>
+    <Cell><Data ss:Type="String">Fast</Data></Cell>
+    <Cell><Data ss:Type="String">Sprint</Data></Cell>
+    <Cell><Data ss:Type="String">Extra Fast</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[general]</Data></Cell>
+    <Cell><Data ss:Type="String">definition</Data></Cell>
+    <Cell><Data ss:Type="String">ultimaker3</Data></Cell>
+    <Cell><Data ss:Type="String">ultimaker3</Data></Cell>
+    <Cell><Data ss:Type="String">ultimaker3</Data></Cell>
+    <Cell><Data ss:Type="String">ultimaker3</Data></Cell>
+    <Cell><Data ss:Type="String">ultimaker3</Data></Cell>
+    <Cell><Data ss:Type="String">ultimaker3</Data></Cell>
+    <Cell><Data ss:Type="String">ultimaker3</Data></Cell>
+    <Cell><Data ss:Type="String">ultimaker3</Data></Cell>
+    <Cell><Data ss:Type="String">ultimaker3</Data></Cell>
+    <Cell><Data ss:Type="String">ultimaker3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[metadata]</Data></Cell>
+    <Cell><Data ss:Type="String">setting_version</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[metadata]</Data></Cell>
+    <Cell><Data ss:Type="String">type</Data></Cell>
+    <Cell><Data ss:Type="String">quality</Data></Cell>
+    <Cell><Data ss:Type="String">quality</Data></Cell>
+    <Cell><Data ss:Type="String">quality</Data></Cell>
+    <Cell><Data ss:Type="String">quality</Data></Cell>
+    <Cell><Data ss:Type="String">quality</Data></Cell>
+    <Cell><Data ss:Type="String">quality</Data></Cell>
+    <Cell><Data ss:Type="String">quality</Data></Cell>
+    <Cell><Data ss:Type="String">quality</Data></Cell>
+    <Cell><Data ss:Type="String">quality</Data></Cell>
+    <Cell><Data ss:Type="String">quality</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[metadata]</Data></Cell>
+    <Cell><Data ss:Type="String">quality_type</Data></Cell>
+    <Cell><Data ss:Type="String">fast</Data></Cell>
+    <Cell><Data ss:Type="String">high</Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell><Data ss:Type="String">draft</Data></Cell>
+    <Cell><Data ss:Type="String">fast</Data></Cell>
+    <Cell><Data ss:Type="String">high</Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell><Data ss:Type="String">draft</Data></Cell>
+    <Cell><Data ss:Type="String">superdraft</Data></Cell>
+    <Cell><Data ss:Type="String">verydraft</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[metadata]</Data></Cell>
+    <Cell><Data ss:Type="String">weight</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">-2</Data></Cell>
+    <Cell><Data ss:Type="Number">-1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">-2</Data></Cell>
+    <Cell><Data ss:Type="Number">-4</Data></Cell>
+    <Cell><Data ss:Type="Number">-3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[metadata]</Data></Cell>
+    <Cell><Data ss:Type="String">material</Data></Cell>
+    <Cell><Data ss:Type="String">makerpoint_petg</Data></Cell>
+    <Cell><Data ss:Type="String">makerpoint_petg</Data></Cell>
+    <Cell><Data ss:Type="String">makerpoint_petg</Data></Cell>
+    <Cell><Data ss:Type="String">makerpoint_petg</Data></Cell>
+    <Cell><Data ss:Type="String">makerpoint_petg</Data></Cell>
+    <Cell><Data ss:Type="String">makerpoint_petg</Data></Cell>
+    <Cell><Data ss:Type="String">makerpoint_petg</Data></Cell>
+    <Cell><Data ss:Type="String">makerpoint_petg</Data></Cell>
+    <Cell><Data ss:Type="String">makerpoint_petg</Data></Cell>
+    <Cell><Data ss:Type="String">makerpoint_petg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[metadata]</Data></Cell>
+    <Cell><Data ss:Type="String">variant</Data></Cell>
+    <Cell><Data ss:Type="String">AA 0.25</Data></Cell>
+    <Cell><Data ss:Type="String">AA 0.25</Data></Cell>
+    <Cell><Data ss:Type="String">AA 0.25</Data></Cell>
+    <Cell><Data ss:Type="String">AA 0.4</Data></Cell>
+    <Cell><Data ss:Type="String">AA 0.4</Data></Cell>
+    <Cell><Data ss:Type="String">AA 0.4</Data></Cell>
+    <Cell><Data ss:Type="String">AA 0.4</Data></Cell>
+    <Cell><Data ss:Type="String">AA 0.8</Data></Cell>
+    <Cell><Data ss:Type="String">AA 0.8</Data></Cell>
+    <Cell><Data ss:Type="String">AA 0.8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">cool_fan_speed_min</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">cool_min_layer_time</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">cool_min_layer_time_fan_speed_max</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">cool_min_speed</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">infill_sparse_density</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">layer_height</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">speed_layer_0</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">speed_print</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+    <Cell><Data ss:Type="Number">45</Data></Cell>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">top_bottom_thickness</Data></Cell>
+    <Cell><Data ss:Type="Number">0.8</Data></Cell>
+    <Cell><Data ss:Type="Number">0.8</Data></Cell>
+    <Cell><Data ss:Type="Number">0.8</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">wall_thickness</Data></Cell>
+    <Cell><Data ss:Type="Number">0.92</Data></Cell>
+    <Cell><Data ss:Type="Number">0.92</Data></Cell>
+    <Cell><Data ss:Type="Number">0.92</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">speed_wall</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_print * 45 / 60)</Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_print * 40 / 60)</Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_print * 30 / 50)</Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_print * 30 / 55)</Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_print * 30 / 40)</Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_print * 40 / 45)</Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_print * 30 / 40)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">speed_travel</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">material_print_temperature</Data></Cell>
+    <Cell><Data ss:Type="String">=default_material_print_temperature + 5</Data></Cell>
+    <Cell><Data ss:Type="String">=default_material_print_temperature - 5</Data></Cell>
+    <Cell><Data ss:Type="String">=default_material_print_temperature</Data></Cell>
+    <Cell><Data ss:Type="String">=default_material_print_temperature + 10</Data></Cell>
+    <Cell><Data ss:Type="String">=default_material_print_temperature + 5</Data></Cell>
+    <Cell><Data ss:Type="String">=default_material_print_temperature - 5</Data></Cell>
+    <Cell><Data ss:Type="String">=default_material_print_temperature</Data></Cell>
+    <Cell><Data ss:Type="String">=default_material_print_temperature + 15</Data></Cell>
+    <Cell><Data ss:Type="String">=default_material_print_temperature + 20</Data></Cell>
+    <Cell><Data ss:Type="String">=default_material_print_temperature + 17</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">material_initial_print_temperature</Data></Cell>
+    <Cell><Data ss:Type="String">=material_print_temperature - 5</Data></Cell>
+    <Cell><Data ss:Type="String">=material_print_temperature - 5</Data></Cell>
+    <Cell><Data ss:Type="String">=material_print_temperature - 5</Data></Cell>
+    <Cell><Data ss:Type="String">=material_print_temperature - 5</Data></Cell>
+    <Cell><Data ss:Type="String">=material_print_temperature - 5</Data></Cell>
+    <Cell><Data ss:Type="String">=material_print_temperature - 5</Data></Cell>
+    <Cell><Data ss:Type="String">=material_print_temperature - 5</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">material_final_print_temperature</Data></Cell>
+    <Cell><Data ss:Type="String">=material_print_temperature - 10</Data></Cell>
+    <Cell><Data ss:Type="String">=material_print_temperature - 10</Data></Cell>
+    <Cell><Data ss:Type="String">=material_print_temperature - 10</Data></Cell>
+    <Cell><Data ss:Type="String">=material_print_temperature - 10</Data></Cell>
+    <Cell><Data ss:Type="String">=material_print_temperature - 10</Data></Cell>
+    <Cell><Data ss:Type="String">=material_print_temperature - 10</Data></Cell>
+    <Cell><Data ss:Type="String">=material_print_temperature - 10</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">prime_tower_purge_volume</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">prime_tower_size</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">prime_tower_wall_thickness</Data></Cell>
+    <Cell><Data ss:Type="Number">0.9</Data></Cell>
+    <Cell><Data ss:Type="Number">0.9</Data></Cell>
+    <Cell><Data ss:Type="Number">0.9</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">retraction_extrusion_window</Data></Cell>
+    <Cell><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">speed_infill</Data></Cell>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">speed_topbottom</Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_print * 30 / 55)</Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_print * 30 / 55)</Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_print * 30 / 55)</Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_print * 35 / 60)</Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_print * 30 / 60)</Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_print * 30 / 50)</Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_print * 30 / 55)</Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_print * 25 / 40)</Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_print * 30 / 45)</Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_print * 25 / 40)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">material_standby_temperature</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">skin_overlap</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">speed_wall_0</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_wall * 35 / 45)</Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_wall * 30 / 40)</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_wall * 30 / 40)</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">machine_nozzle_cool_down_speed</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">0.85</Data></Cell>
+    <Cell><Data ss:Type="Number">0.85</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">machine_nozzle_heat_up_speed</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">brim_width</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">line_width</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">=machine_nozzle_size * 0.875</Data></Cell>
+    <Cell><Data ss:Type="String">=machine_nozzle_size * 0.875</Data></Cell>
+    <Cell><Data ss:Type="String">=machine_nozzle_size * 0.875</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">prime_tower_enable</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">True</Data></Cell>
+    <Cell><Data ss:Type="String">True</Data></Cell>
+    <Cell><Data ss:Type="String">True</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">jerk_travel</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">infill_pattern</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>23</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+   <Worksheet ss:Name="ultimaker_s5">
+  <Table ss:ExpandedColumnCount="12" ss:ExpandedRowCount="40" x:FullColumns="1" x:FullRows="1" ss:DefaultRowHeight="15">
+  <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:AutoFitWidth="0" ss:Width="150"/>
+  <Column ss:AutoFitWidth="0" ss:Width="150"/>
+   <Row>
+    <Cell><Data ss:Type="String">[general]</Data></Cell>
+    <Cell><Data ss:Type="String">version</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[general]</Data></Cell>
+    <Cell><Data ss:Type="String">name</Data></Cell>
+    <Cell><Data ss:Type="String">Fine</Data></Cell>
+    <Cell><Data ss:Type="String">Fine</Data></Cell>
+    <Cell><Data ss:Type="String">Fine</Data></Cell>
+    <Cell><Data ss:Type="String">Fast</Data></Cell>
+    <Cell><Data ss:Type="String">Normal</Data></Cell>
+    <Cell><Data ss:Type="String">Extra Fine</Data></Cell>
+    <Cell><Data ss:Type="String">Fine</Data></Cell>
+    <Cell><Data ss:Type="String">Fast</Data></Cell>
+    <Cell><Data ss:Type="String">Sprint</Data></Cell>
+    <Cell><Data ss:Type="String">Extra Fast</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[general]</Data></Cell>
+    <Cell><Data ss:Type="String">definition</Data></Cell>
+    <Cell><Data ss:Type="String">ultimaker_s5</Data></Cell>
+    <Cell><Data ss:Type="String">ultimaker_s5</Data></Cell>
+    <Cell><Data ss:Type="String">ultimaker_s5</Data></Cell>
+    <Cell><Data ss:Type="String">ultimaker_s5</Data></Cell>
+    <Cell><Data ss:Type="String">ultimaker_s5</Data></Cell>
+    <Cell><Data ss:Type="String">ultimaker_s5</Data></Cell>
+    <Cell><Data ss:Type="String">ultimaker_s5</Data></Cell>
+    <Cell><Data ss:Type="String">ultimaker_s5</Data></Cell>
+    <Cell><Data ss:Type="String">ultimaker_s5</Data></Cell>
+    <Cell><Data ss:Type="String">ultimaker_s5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[metadata]</Data></Cell>
+    <Cell><Data ss:Type="String">setting_version</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[metadata]</Data></Cell>
+    <Cell><Data ss:Type="String">type</Data></Cell>
+    <Cell><Data ss:Type="String">quality</Data></Cell>
+    <Cell><Data ss:Type="String">quality</Data></Cell>
+    <Cell><Data ss:Type="String">quality</Data></Cell>
+    <Cell><Data ss:Type="String">quality</Data></Cell>
+    <Cell><Data ss:Type="String">quality</Data></Cell>
+    <Cell><Data ss:Type="String">quality</Data></Cell>
+    <Cell><Data ss:Type="String">quality</Data></Cell>
+    <Cell><Data ss:Type="String">quality</Data></Cell>
+    <Cell><Data ss:Type="String">quality</Data></Cell>
+    <Cell><Data ss:Type="String">quality</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[metadata]</Data></Cell>
+    <Cell><Data ss:Type="String">quality_type</Data></Cell>
+    <Cell><Data ss:Type="String">fast</Data></Cell>
+    <Cell><Data ss:Type="String">high</Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell><Data ss:Type="String">draft</Data></Cell>
+    <Cell><Data ss:Type="String">fast</Data></Cell>
+    <Cell><Data ss:Type="String">high</Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell><Data ss:Type="String">draft</Data></Cell>
+    <Cell><Data ss:Type="String">superdraft</Data></Cell>
+    <Cell><Data ss:Type="String">verydraft</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[metadata]</Data></Cell>
+    <Cell><Data ss:Type="String">weight</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">-2</Data></Cell>
+    <Cell><Data ss:Type="Number">-1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">-2</Data></Cell>
+    <Cell><Data ss:Type="Number">-4</Data></Cell>
+    <Cell><Data ss:Type="Number">-3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[metadata]</Data></Cell>
+    <Cell><Data ss:Type="String">material</Data></Cell>
+    <Cell><Data ss:Type="String">makerpoint_petg</Data></Cell>
+    <Cell><Data ss:Type="String">makerpoint_petg</Data></Cell>
+    <Cell><Data ss:Type="String">makerpoint_petg</Data></Cell>
+    <Cell><Data ss:Type="String">makerpoint_petg</Data></Cell>
+    <Cell><Data ss:Type="String">makerpoint_petg</Data></Cell>
+    <Cell><Data ss:Type="String">makerpoint_petg</Data></Cell>
+    <Cell><Data ss:Type="String">makerpoint_petg</Data></Cell>
+    <Cell><Data ss:Type="String">makerpoint_petg</Data></Cell>
+    <Cell><Data ss:Type="String">makerpoint_petg</Data></Cell>
+    <Cell><Data ss:Type="String">makerpoint_petg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[metadata]</Data></Cell>
+    <Cell><Data ss:Type="String">variant</Data></Cell>
+    <Cell><Data ss:Type="String">AA 0.25</Data></Cell>
+    <Cell><Data ss:Type="String">AA 0.25</Data></Cell>
+    <Cell><Data ss:Type="String">AA 0.25</Data></Cell>
+    <Cell><Data ss:Type="String">AA 0.4</Data></Cell>
+    <Cell><Data ss:Type="String">AA 0.4</Data></Cell>
+    <Cell><Data ss:Type="String">AA 0.4</Data></Cell>
+    <Cell><Data ss:Type="String">AA 0.4</Data></Cell>
+    <Cell><Data ss:Type="String">AA 0.8</Data></Cell>
+    <Cell><Data ss:Type="String">AA 0.8</Data></Cell>
+    <Cell><Data ss:Type="String">AA 0.8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">cool_fan_speed_min</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">cool_min_layer_time</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">cool_min_layer_time_fan_speed_max</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">cool_min_speed</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">infill_sparse_density</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">layer_height</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">speed_layer_0</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">speed_print</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+    <Cell><Data ss:Type="Number">45</Data></Cell>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">top_bottom_thickness</Data></Cell>
+    <Cell><Data ss:Type="Number">0.8</Data></Cell>
+    <Cell><Data ss:Type="Number">0.8</Data></Cell>
+    <Cell><Data ss:Type="Number">0.8</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">wall_thickness</Data></Cell>
+    <Cell><Data ss:Type="Number">0.92</Data></Cell>
+    <Cell><Data ss:Type="Number">0.92</Data></Cell>
+    <Cell><Data ss:Type="Number">0.92</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">speed_wall</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_print * 45 / 60)</Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_print * 40 / 60)</Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_print * 30 / 50)</Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_print * 30 / 55)</Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_print * 30 / 40)</Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_print * 40 / 45)</Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_print * 30 / 40)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">speed_travel</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">material_print_temperature</Data></Cell>
+    <Cell><Data ss:Type="String">=default_material_print_temperature + 5</Data></Cell>
+    <Cell><Data ss:Type="String">=default_material_print_temperature - 5</Data></Cell>
+    <Cell><Data ss:Type="String">=default_material_print_temperature</Data></Cell>
+    <Cell><Data ss:Type="String">=default_material_print_temperature + 10</Data></Cell>
+    <Cell><Data ss:Type="String">=default_material_print_temperature + 5</Data></Cell>
+    <Cell><Data ss:Type="String">=default_material_print_temperature - 5</Data></Cell>
+    <Cell><Data ss:Type="String">=default_material_print_temperature</Data></Cell>
+    <Cell><Data ss:Type="String">=default_material_print_temperature + 15</Data></Cell>
+    <Cell><Data ss:Type="String">=default_material_print_temperature + 20</Data></Cell>
+    <Cell><Data ss:Type="String">=default_material_print_temperature + 17</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">material_initial_print_temperature</Data></Cell>
+    <Cell><Data ss:Type="String">=material_print_temperature</Data></Cell>
+    <Cell><Data ss:Type="String">=material_print_temperature</Data></Cell>
+    <Cell><Data ss:Type="String">=material_print_temperature</Data></Cell>
+    <Cell><Data ss:Type="String">=material_print_temperature - 5</Data></Cell>
+    <Cell><Data ss:Type="String">=material_print_temperature - 5</Data></Cell>
+    <Cell><Data ss:Type="String">=material_print_temperature - 5</Data></Cell>
+    <Cell><Data ss:Type="String">=material_print_temperature - 5</Data></Cell>
+    <Cell><Data ss:Type="String">=material_print_temperature</Data></Cell>
+    <Cell><Data ss:Type="String">=material_print_temperature</Data></Cell>
+    <Cell><Data ss:Type="String">=material_print_temperature</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">material_final_print_temperature</Data></Cell>
+    <Cell><Data ss:Type="String">=material_print_temperature</Data></Cell>
+    <Cell><Data ss:Type="String">=material_print_temperature</Data></Cell>
+    <Cell><Data ss:Type="String">=material_print_temperature</Data></Cell>
+    <Cell><Data ss:Type="String">=material_print_temperature - 10</Data></Cell>
+    <Cell><Data ss:Type="String">=material_print_temperature - 10</Data></Cell>
+    <Cell><Data ss:Type="String">=material_print_temperature - 10</Data></Cell>
+    <Cell><Data ss:Type="String">=material_print_temperature - 10</Data></Cell>
+    <Cell><Data ss:Type="String">=material_print_temperature</Data></Cell>
+    <Cell><Data ss:Type="String">=material_print_temperature</Data></Cell>
+    <Cell><Data ss:Type="String">=material_print_temperature</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">prime_tower_purge_volume</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">prime_tower_size</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">prime_tower_wall_thickness</Data></Cell>
+    <Cell><Data ss:Type="Number">0.9</Data></Cell>
+    <Cell><Data ss:Type="Number">0.9</Data></Cell>
+    <Cell><Data ss:Type="Number">0.9</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">retraction_extrusion_window</Data></Cell>
+    <Cell><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">speed_infill</Data></Cell>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+    <Cell><Data ss:Type="Number">45</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">speed_topbottom</Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_print * 30 / 55)</Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_print * 30 / 55)</Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_print * 30 / 55)</Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_print * 35 / 60)</Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_print * 30 / 60)</Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_print * 30 / 50)</Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_print * 30 / 55)</Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_print * 25 / 40)</Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_print * 30 / 45)</Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_print * 25 / 40)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">material_standby_temperature</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">skin_overlap</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">speed_wall_0</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_wall * 35 / 45)</Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_wall * 30 / 40)</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">=math.ceil(speed_wall * 30 / 40)</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">machine_nozzle_cool_down_speed</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">0.85</Data></Cell>
+    <Cell><Data ss:Type="Number">0.85</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">machine_nozzle_heat_up_speed</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">brim_width</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">line_width</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">=machine_nozzle_size * 0.875</Data></Cell>
+    <Cell><Data ss:Type="String">=machine_nozzle_size * 0.875</Data></Cell>
+    <Cell><Data ss:Type="String">=machine_nozzle_size * 0.875</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">prime_tower_enable</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">True</Data></Cell>
+    <Cell><Data ss:Type="String">True</Data></Cell>
+    <Cell><Data ss:Type="String">True</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">jerk_travel</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">[values]</Data></Cell>
+    <Cell><Data ss:Type="String">infill_pattern</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">zigzag</Data></Cell>
+    <Cell><Data ss:Type="String">zigzag</Data></Cell>
+    <Cell><Data ss:Type="String">zigzag</Data></Cell>
+    <Cell><Data ss:Type="String">zigzag</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>23</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+  </Workbook>
